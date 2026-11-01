@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Basanta 👋
 
-<!--
-**locus-basanta/locus-basanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Builder. Breaker. Fixer.**
 
-Here are some ideas to get you started:
+I'm a developer from Kathmandu, Nepal 🇳🇵 — I like building things that solve real problems and tinkering with everything in between.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I work with
+- **Languages:** JavaScript, Python, and whatever gets the job done
+- **Tools:** React, Node.js, Docker, Linux, Cloudflare
+- **Currently:** Exploring AI agents, automation, and full-stack dev
+
+### 📫 Get in touch
+- 🌐 [basanta.dev](https://basanta.dev)
+- ✉️ locus@basanta.dev
+
+---
+
+*"Building things that work, breaking things that don't."*
